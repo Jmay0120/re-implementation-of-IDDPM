@@ -72,7 +72,7 @@ python evaluations/evaluator.py /project/wanruibo/PaperCode/guided-diffusion/res
 ```
 
 | Dataset               | FID  | Precision | Recall |
-|-----------------------|------|-----------|--------|
+|:---------------------:|:----:|:---------:|:------:|
 | LSUN-Bedroom          | 4.85 |    0.65   | 0.51   |
 | LSUN-Bedroom（原论文） | 1.90 |    0.66   | 0.51   |
 
@@ -83,7 +83,7 @@ python evaluations/evaluator.py /project/wanruibo/PaperCode/guided-diffusion/res
 ```
 
 | Dataset                   | FID   | Precision | Recall |
-|---------------------------|-------|-----------|--------|
+|:-------------------------:|:-----:|:---------:|:------:|
 | ImageNet 256x256          | 11.20 |    0.82   | 0.68   |
 | ImageNet 256x256（原论文） | 4.59  |    0.82   | 0.52   |
 
