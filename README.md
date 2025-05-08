@@ -1,4 +1,4 @@
-# guided-diffusion
+# re-implementation guided-diffusion
 
 This is the **re-implementation version** for [Diffusion Models Beat GANS on Image Synthesis](http://arxiv.org/abs/2105.05233).
 
@@ -87,5 +87,19 @@ python evaluations/evaluator.py /project/wanruibo/PaperCode/guided-diffusion/res
 | ImageNet 256x256          | 11.20 |    0.82   | 0.68   |
 | ImageNet 256x256（原论文） | 4.59  |    0.82   | 0.52   |
 
+# Citation
 
+```
+@inproceedings{NEURIPS2021_49ad23d1,
+ author = {Dhariwal, Prafulla and Nichol, Alexander},
+ booktitle = {Advances in Neural Information Processing Systems},
+ editor = {M. Ranzato and A. Beygelzimer and Y. Dauphin and P.S. Liang and J. Wortman Vaughan},
+ pages = {8780--8794},
+ publisher = {Curran Associates, Inc.},
+ title = {Diffusion Models Beat GANs on Image Synthesis},
+ url = {https://proceedings.neurips.cc/paper_files/paper/2021/file/49ad23d1ec9fa4bd8d77d02681df5cfa-Paper.pdf},
+ volume = {34},
+ year = {2021}
+}
+```
 
