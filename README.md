@@ -1,4 +1,5 @@
 # re-implementation guided-diffusion
+## 参考链接：https://github.com/openai/guided-diffusion
 
 This is the **re-implementation version** for [Diffusion Models Beat GANS on Image Synthesis](http://arxiv.org/abs/2105.05233).
 
